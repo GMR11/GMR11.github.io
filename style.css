@@ -1,0 +1,25 @@
+h1 {	
+ 	
+	text-align: center;
+	margin-top: 200px;
+    margin-bottom: 30px; 
+
+}
+
+
+body {	
+
+	background: url(golf3.jpg);
+	    background-repeat: no-repeat;
+	    background-size: cover;
+
+}
+
+button {	
+
+ margin-top: 280px; 
+ margin-bottom: 30px;
+ margin-left: 700px;
+ margin-right: 640px;
+
+}
