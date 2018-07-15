@@ -1,11 +1,18 @@
 
 
 
+html {	
+
+   background-color: green;
+
+}
+
+
 img {
 
- 
-	   max-width: 100%;
-       height: auto;
+ 	   height: auto;
+	   width: 100%;
+     
 
 
 }
