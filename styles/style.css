@@ -1,0 +1,44 @@
+
+
+
+html {	
+
+   background-color: green;
+
+}
+
+
+img {
+
+ 	   height: auto;
+	   width: 100%;
+     
+
+
+}
+
+
+body {
+
+
+	margin: 0px;
+}
+
+
+/*
+
+
+
+
+
+
+body {	
+
+    background-image: url(../img/header.png);
+    height: 100%; 
+    background-repeat: no-repeat;
+    background-size: cover;
+ 	background-position: center;
+}
+
+  */
